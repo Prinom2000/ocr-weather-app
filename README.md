@@ -8,8 +8,6 @@ A Streamlit web app that:
 
 ---
 
----
-
 ## ⚙️ Features
 - Upload an image **or** capture directly with device camera
 - OCR detects temperatures in formats like:
@@ -29,3 +27,4 @@ A Streamlit web app that:
 ```bash
 git clone https://github.com/Prinom2000/ocr-weather-app.git
 cd ocr-weather-app
+
